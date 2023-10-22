@@ -5,7 +5,7 @@ public class coba_panggil {
         System.out.println("Namaku");
     }
 
-    public static void ayopanggil(){
-        System.out.println("Rakamin");
+    public static void ayopanggil(String panggil){
+        System.out.println("panggilan kepada: "+ panggil);
     }
 }

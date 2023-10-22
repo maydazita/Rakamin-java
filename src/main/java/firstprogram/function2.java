@@ -16,7 +16,7 @@ public class function2 {
         tambah(x,y);
         tambah(x,z);
         tambah(y,z);
-        coba_panggil.ayopanggil();
+        coba_panggil.ayopanggil("namaku");
     }
 
     public static int tambah(int a, int b){
