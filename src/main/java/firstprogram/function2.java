@@ -12,6 +12,7 @@ public class function2 {
 
         namaku.Indah("ridwan");
         namaku.Indah("asep");
+        namaku.Indah("indah");
         tambah(x,y);
         tambah(x,z);
         tambah(y,z);
